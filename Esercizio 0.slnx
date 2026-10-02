@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="36807b8e-7f8e-4e83-994d-00125b2462d4" />
+    <Project Path="Proggetto0.EasyFirstProblem/Proggetto0.EasyFirstProblem.csproj" Id="46e56fe7-0010-4cfe-a9fc-1abd1fe96264" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="UnitTestProject1/UnitTestProject1.csproj" Id="c52d575b-887f-4559-91ff-35994fd96f22" />
+  </Folder>
+</Solution>
